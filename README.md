@@ -61,6 +61,7 @@ project_root
 **Tableau**
 
 ### **Pipeline Flow**
+![Cloud pipeline flow diagram](cloud_pipeline/pipeline_flow_diagram/Screenshot%202025-11-26%20at%2018.14.23.png)
 
 ### **1. Ingestion & Task Splitting**
 - Raw reviews uploaded to **GCS**
