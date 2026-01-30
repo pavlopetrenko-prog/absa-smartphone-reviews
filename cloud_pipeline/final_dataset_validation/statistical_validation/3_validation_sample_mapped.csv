@@ -1,0 +1,585 @@
+row_id,review_id,overall_sentiment,overall_sentiment_validate,overall_sentiment_true,aspect_sentiment,aspect_sentiment_validate,aspect_sentiment_true,aspect_summary,aspect_summary_validate,high_category,high_category_validate,high_category_true,main_category,main_category_validate,main_category_true
+9560,4629,negative,1,negative,negative,1,negative,The battery gets drained within few hours,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9567,4634,negative,1,negative,negative,1,negative,phone showing problem,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6224,3013,positive,1,positive,positive,1,positive,Everything is superb on this phone at this price point,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+7330,3560,negative,1,negative,negative,1,negative,Vry worst phone i have seen ever,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17951,8681,positive,1,positive,positive,1,positive,Very good Product,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14321,6912,negative,1,negative,negative,1,negative,gallery not available.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+2391,1171,negative,1,negative,negative,1,negative,power button also takes few seconds to open the screen for unlock.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+2477,1207,negative,1,negative,negative,1,negative,It takes 6 - 7 hours for charging 80% battery.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18555,9001,positive,1,positive,positive,1,positive,V.nice.and looking phone.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+20300,9857,positive,1,positive,positive,1,positive,Good product,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10880,5256,positive,1,positive,negative,1,negative,heating problem of the phone.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+8319,4019,negative,1,negative,negative,1,negative,Heating too much,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+8272,3992,negative,1,negative,negative,1,negative,Batary back up comes only one day if you are not browsing much.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18783,9117,negative,1,negative,negative,1,negative,very very bad charging,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2812,1371,negative,1,negative,negative,1,negative,Heating issue found,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+10979,5297,positive,1,positive,positive,1,positive,THANK YOU RATING YOU R ORDER,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16246,7836,positive,1,positive,positive,1,positive,good phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19437,9423,negative,1,negative,negative,1,negative,n add 4k recording...n minor features like lock for different apps.. front style...dual app... gestures... screenshot shortcut..screen off shortcut.. select memory card for default storage..Wallpaper download...ram management,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+3533,1715,negative,0,positive,negative,0,positive,This phone is just satisfying.. not so good...,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+9776,4737,negative,1,negative,negative,1,negative,antenna function doesn't fully support 4g service with any service provider,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+15533,7496,negative,1,negative,negative,1,negative,Very bad video clarity on all players,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+8145,3937,positive,1,positive,positive,1,positive,performance is super,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+2706,1319,negative,1,negative,negative,1,negative,Battery consumption is high.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2084,1017,negative,1,negative,negative,1,negative,Battery drains very fast.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1978,968,negative,1,negative,positive,1,positive,Phone is very good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+5862,2842,positive,1,positive,negative,1,negative,"takes time to charge though, even with turbocharging",1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19924,9683,negative,1,negative,negative,1,negative,Not nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6405,3101,negative,1,negative,negative,1,negative,heats up,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+8358,4045,positive,1,positive,positive,1,positive,its design is perfect,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+6271,3036,negative,1,negative,negative,1,negative,one more issue is battery life .,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4628,2260,negative,1,negative,negative,1,negative,The deca core consumes more battery,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19932,9687,negative,1,negative,negative,1,negative,Worst phone totally waste of money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+18127,8774,positive,1,positive,positive,1,positive,Absolutely amazing performance.. best phone so far by lenovo,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+18964,9202,positive,1,positive,positive,1,positive,in 12 - 14 k range this is one of the best mobiles.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+14865,7160,negative,1,negative,negative,1,negative,No separate option for monitering Call and Message notifications Ringtone.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+7683,3728,positive,1,positive,positive,1,positive,ram very fast,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+19388,9401,negative,0,positive,positive,1,positive,Best that anyone can have in this budget.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+16143,7789,negative,1,negative,negative,1,negative,SIM SLOTS DON'T WORK PROPERLY,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+14957,7204,negative,1,negative,negative,1,negative,display quality is too bad.,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+19208,9314,positive,1,positive,positive,1,positive,Great hardware,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+4880,2371,negative,1,negative,negative,1,negative,Mobile gets warm while charging,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2405,1177,negative,1,negative,negative,1,negative,Heavy weight...,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+16594,8017,positive,1,positive,positive,1,positive,Good phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3038,1487,positive,1,positive,positive,1,positive,superb camera clarity,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+9016,4363,positive,1,positive,positive,1,positive,So awsm,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2112,1032,negative,0,positive,positive,1,positive,Good quality,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16697,8070,negative,1,negative,negative,1,negative,charging problems,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19011,9229,negative,1,negative,negative,1,negative,Bad speaker quality.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+4011,1949,negative,1,negative,negative,1,negative,Final verdict 'USELESS'.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+971,493,positive,1,positive,positive,1,positive,Nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13133,6335,negative,1,negative,positive,1,positive,Front camera > average,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+18613,9030,negative,1,negative,negative,1,negative,battery draining fast,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19331,9376,negative,1,negative,negative,1,negative,Battery backup not good,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+12412,5970,negative,1,negative,negative,1,negative,Heating up to 50°c,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+385,188,positive,1,positive,positive,1,positive,Normal smartphone with bit of bugs... With for the cost...,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+9327,4526,positive,1,positive,positive,1,positive,Nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6712,3257,positive,1,positive,positive,1,positive,It's a good phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3068,1503,positive,1,positive,positive,1,positive,I received phone quickly & short time... Good work..,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+5653,2732,negative,1,negative,negative,1,negative,The bluetooth headset keeps stopping on my device.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+10563,5106,negative,1,negative,negative,1,negative,Worst product ever purchase,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+9242,4485,negative,1,negative,negative,1,negative,No headphones in the box.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+2988,1462,positive,1,positive,positive,1,positive,Nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17205,8325,negative,1,negative,negative,1,negative,Bad network,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+12567,6044,positive,1,positive,positive,1,positive,Phone is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11621,5619,negative,1,negative,negative,1,negative,Poor RAM performance.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+12762,6146,negative,1,negative,negative,1,negative,"within a week am facing problem like heating, touching, hanging and internet connection issues",1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+13551,6539,negative,1,negative,negative,1,negative,battery waste only 8 hrs,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+16099,7772,negative,1,negative,negative,1,negative,no customer service,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+3670,1789,negative,1,negative,negative,1,negative,VLT issue,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+8403,4065,negative,1,negative,negative,1,negative,JIO video call is not working.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+12407,5968,negative,0,positive,negative,0,positive,Camera Quality ok ok.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+5023,2439,negative,1,negative,negative,1,negative,they dont give regular updates,1,INFRASTRUCTURE,0,PHONE,POLICY CLARITY & TRUSTWORTHINESS,0,SOFTWARE
+19746,9577,negative,0,positive,positive,1,positive,like it,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10513,5086,negative,1,negative,negative,1,negative,Amazon and lenovo is not return the product.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,RETURNS & EXCHANGES,1,RETURNS & EXCHANGES
+4744,2310,positive,1,positive,negative,1,negative,I haven't seen any security updates,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+13088,6314,positive,0,negative,positive,0,negative,value for money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+5561,2689,positive,1,positive,positive,1,positive,Superb mobile...,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16210,7818,negative,1,negative,negative,1,negative,do not have camera (13MP) as expected,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+10040,4860,negative,1,negative,negative,1,negative,Not good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2151,1056,negative,1,negative,negative,1,negative,Its got Heating Problem.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1531,750,negative,1,negative,negative,1,negative,a phone cant be called a killer if it doesnt have the basic function of backlit keys at the bottom.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+18506,8975,positive,1,positive,positive,1,positive,Performance is very good...,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+16776,8107,positive,1,positive,negative,1,negative,Mob is too heat in the time of charging.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+8582,4151,negative,1,negative,negative,1,negative,no resell value,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+2781,1357,negative,1,negative,negative,1,negative,touch problem hangup and become hot are common problem.,0,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+12870,6199,positive,1,positive,positive,1,positive,would highly recommend,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13358,6443,positive,1,positive,positive,1,positive,Good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+1052,530,negative,1,negative,negative,1,negative,Heating issue,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+12860,6195,positive,1,positive,positive,1,positive,Good device,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3974,1935,negative,1,negative,negative,1,negative,battery goes down automatically.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1337,661,positive,1,positive,positive,1,positive,Very good and powerful phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6145,2979,negative,1,negative,negative,1,negative,data rates on 4g is slower than on Redmi note4,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+20429,9913,negative,1,negative,positive,1,positive,Otherwise it is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17936,8675,negative,1,negative,negative,1,negative,This phone worked well in India but did not work in US.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+18938,9189,negative,1,negative,negative,1,negative,Pathetic service,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+19094,9268,positive,1,positive,positive,1,positive,amazing features.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19872,9651,negative,1,negative,negative,1,negative,Looks like its used,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+19479,9443,positive,1,positive,positive,1,positive,Best performance,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+9277,4502,positive,1,positive,positive,1,positive,Good HD display,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+3707,1806,negative,1,negative,negative,1,negative,Gorilla glass is fake my phone is broke,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+13964,6746,negative,1,negative,negative,1,negative,display is not catchy and look average,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+15541,7499,positive,1,positive,positive,1,positive,Good phone with good touch sensitivity,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+19992,9721,negative,1,negative,negative,1,negative,The buttons are not backlit and swapped.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+3375,1632,negative,1,negative,negative,1,negative,The in-box accessories had earphone missing in it.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+7508,3644,positive,1,positive,positive,1,positive,Dolby Atmos sound system,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+9333,4529,negative,1,negative,negative,1,negative,headphones pin also not working..,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+17856,8631,negative,1,negative,negative,1,negative,Heating problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5570,2693,positive,1,positive,positive,1,positive,Nice phone in offer,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,MARKETING & PROMOTIONS,1,MARKETING & PROMOTIONS
+17374,8404,negative,1,negative,positive,1,positive,it is good phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+1528,750,negative,1,negative,negative,1,negative,The dual camera setup is just a gimmick and takes ordinary quality photos.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+7924,3829,negative,1,negative,negative,1,negative,Cam quality is not good.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+10638,5136,positive,1,positive,positive,1,positive,Battery back up is satisfactory.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4049,1966,positive,1,positive,positive,1,positive,Lenovo K8 its fabulous phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10258,4962,positive,1,positive,positive,1,positive,Looks 4 stars,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+13982,6756,negative,1,negative,negative,1,negative,Don't update system software to Oreo 8.0.0,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+4112,1995,negative,1,negative,positive,1,positive,turbo charger is a great advantage.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+15986,7716,negative,1,negative,negative,1,negative,I can see a huge price drop within a month.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+15514,7488,positive,1,positive,positive,1,positive,Camera result also good.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+6074,2949,positive,1,positive,positive,1,positive,Amazon doing great job.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+7425,3606,negative,0,positive,negative,1,negative,one problem no quick charging,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+13648,6584,negative,0,positive,negative,0,positive,Overall phone rating is average.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8295,4004,negative,1,negative,positive,1,positive,Phone features are good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+1427,701,negative,0,positive,positive,1,positive,Mobile is very nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+18582,9013,negative,1,negative,negative,1,negative,Not good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3978,1936,positive,1,positive,positive,1,positive,very fast performance..,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+18824,9134,negative,1,negative,negative,1,negative,Bakwas phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17906,8662,negative,1,negative,negative,1,negative,i asked for replace u r just engaging me in rubish things,1,INFRASTRUCTURE,1,INFRASTRUCTURE,RETURNS & EXCHANGES,1,RETURNS & EXCHANGES
+17629,8522,positive,1,positive,positive,1,positive,Very good phn with superb camera quality.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+960,486,positive,1,positive,positive,1,positive,Awesome mobile,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+5397,2614,negative,1,negative,negative,1,negative,this has cheap chipset mediatek,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+14511,6992,positive,1,positive,negative,1,negative,Camera not so good as they claim,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4743,2310,positive,1,positive,positive,1,positive,you get rapid charging,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+11469,5543,positive,1,positive,positive,1,positive,Rear and Front camera is too good.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+19351,9386,positive,1,positive,positive,1,positive,some cool new stuff,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10367,5012,negative,1,negative,negative,1,negative,Mobiles hangs a lot,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+16228,7826,negative,1,negative,positive,1,positive,Amazon service is very good,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+20197,9805,positive,1,positive,positive,1,positive,It's ok,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+20138,9780,positive,1,positive,positive,1,positive,it is the best phone in the price range of 12000 to 15000 rupees.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+18753,9106,negative,1,negative,negative,1,negative,some features are not working like live wallpaper,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+2003,983,negative,1,negative,negative,1,negative,Vary bad,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11557,5584,negative,1,negative,negative,1,negative,Battery drains in a 8hours,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1027,522,positive,1,positive,positive,1,positive,Mobile is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+9888,4785,positive,1,positive,positive,1,positive,Hood,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+9527,4613,negative,1,negative,negative,1,negative,There is network problem.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+813,407,negative,1,negative,negative,1,negative,Too much heating problem almost feels like burning my ear while talking.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6063,2945,negative,1,negative,negative,1,negative,in headset audio output is very low /poor,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+3616,1762,negative,1,negative,negative,1,negative,Some demerit s,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14439,6964,positive,1,positive,positive,1,positive,Front camera is really very good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+7591,3683,positive,1,positive,positive,1,positive,This is to good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2301,1123,positive,1,positive,positive,1,positive,Awesome product,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6294,3049,negative,1,negative,negative,1,negative,And Heating Problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+7458,3621,negative,1,negative,negative,1,negative,Return process process also not good.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,RETURNS & EXCHANGES,1,RETURNS & EXCHANGES
+7606,3690,positive,1,positive,positive,1,positive,Nice look.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+6556,3173,positive,1,positive,positive,1,positive,Very good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+12573,6047,positive,1,positive,negative,1,negative,need more colours,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+20028,9735,negative,1,negative,negative,1,negative,getting a resale value of 900 /- on Amazon,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+19147,9285,positive,1,positive,positive,1,positive,Owsm,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+12446,5984,negative,1,negative,negative,1,negative,"Screen showing white lines, blinking",1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+17665,8539,negative,1,negative,negative,1,negative,"Very very bad, Not up to the expected level",1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10192,4927,positive,1,positive,positive,1,positive,Features are good,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+2270,1103,negative,1,negative,negative,1,negative,it(k8 note) doesn't have functionality which k6 power already has.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+13491,6509,negative,1,negative,negative,1,negative,Heating issue is there After continues usage..,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5228,2539,positive,1,positive,positive,1,positive,Phone works smoothly without any problem.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+8590,4155,negative,0,positive,positive,1,positive,phone is good.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+20460,9929,positive,1,positive,positive,1,positive,Battery is enough for one day only.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+8064,3895,negative,1,negative,negative,1,negative,so many time not reachable,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+8703,4212,negative,0,positive,positive,1,positive,Everything is fine...,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11344,5480,negative,1,negative,negative,1,negative,Rear camera (13+5) is very worst,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+13300,6412,negative,1,negative,negative,1,negative,Is 2nd rear camera fake,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+10700,5160,negative,1,negative,negative,1,negative,The phone becomes very warm/hot frequently.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+14759,7112,negative,1,negative,negative,1,negative,battery percentage not showing,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+17558,8489,negative,1,negative,negative,1,negative,Dual camera is garbage.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+538,269,positive,1,positive,positive,1,positive,Very good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11408,5511,negative,1,negative,negative,1,negative,feeling regret and west of money.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+15942,7698,positive,1,positive,positive,1,positive,Nice mobile.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+7695,3733,negative,1,negative,negative,1,negative,"Please don't buy this model, it will be waste of money",1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+18254,8837,negative,1,negative,negative,1,negative,Often misbehave while in calling mode,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+11252,5437,negative,1,negative,negative,1,negative,battery backup is not as expected,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1074,540,negative,1,negative,negative,1,negative,no headset provided with it,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+5350,2592,negative,1,negative,negative,1,negative,Not so good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2305,1125,negative,1,negative,negative,1,negative,Screen touch show mark after click,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+3779,1839,positive,1,positive,positive,1,positive,Finger print response is quick,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+11665,5639,negative,1,negative,negative,1,negative,There is a lot of problem with network connection.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+4848,2355,negative,1,negative,negative,1,negative,Please dont buy this phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+7615,3696,positive,1,positive,positive,1,positive,Good.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16540,7990,positive,1,positive,positive,1,positive,Good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+4722,2304,negative,1,negative,negative,1,negative,Network connection problems with 4G,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+17963,8687,negative,1,negative,negative,1,negative,Not satisfied with the product.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10739,5184,positive,1,positive,positive,1,positive,Phone is pretty good as was expecting,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11055,5338,positive,1,positive,positive,1,positive,Very good my phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+9851,4768,negative,1,negative,negative,1,negative,Worst battery,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+14602,7029,negative,1,negative,positive,1,positive,farnt camera Best hai,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+286,140,negative,0,positive,positive,1,positive,Fast delivery.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+6595,3194,positive,1,positive,negative,1,negative,When was i get my Cash Back Money,1,INFRASTRUCTURE,1,INFRASTRUCTURE,REFUNDS & CASHBACK,1,REFUNDS & CASHBACK
+15377,7422,negative,1,negative,negative,1,negative,Turbo charger is taken 3 hours for charge.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5088,2470,negative,1,negative,negative,1,negative,Please stop making people fools with false promises.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+11729,5666,negative,1,negative,negative,1,negative,rear camera are not up to mark.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+13048,6295,negative,1,negative,negative,1,negative,Battery low,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6252,3029,negative,1,negative,negative,1,negative,Not up to the mark.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14850,7157,positive,1,positive,positive,1,positive,Thanks,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8374,4052,negative,1,negative,negative,1,negative,poor camera,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4349,2115,positive,1,positive,positive,1,positive,Camera is also decent,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+3458,1677,negative,1,negative,negative,1,negative,no option to use a customized ringtone.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+14495,6985,negative,1,negative,negative,1,negative,There are issues with CPU.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+17827,8616,negative,1,negative,negative,1,negative,Difficult to place the tempure glass to the mobile,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+6134,2972,positive,1,positive,positive,1,positive,Nice phone...Love it..,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15100,7281,negative,1,negative,negative,1,negative,Not good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+12355,5947,negative,1,negative,positive,1,positive,Build and looks are impressive.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+9071,4395,negative,1,negative,negative,1,negative,the camera sucks,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+3887,1894,negative,1,negative,negative,1,negative,Very heavy,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+19125,9278,positive,1,positive,positive,1,positive,its a complete package,1,GENERAL_FEEDBACK,0,INFRASTRUCTURE,OVERALL SATISFACTION,0,DELIVERY
+828,416,negative,1,negative,negative,1,negative,Switch off -switch on time (Reboot) time s bit more.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+16784,8109,negative,1,negative,negative,1,negative,casting is not working,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+15803,7630,positive,1,positive,positive,1,positive,Best mobile in this price range.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+8057,3893,negative,1,negative,negative,1,negative,It takes over 3 hours to charge the phone,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+17702,8553,negative,1,negative,positive,1,positive,Camera gud,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+15780,7622,negative,1,negative,negative,1,negative,Worst phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16344,7885,negative,1,negative,negative,1,negative,camera not good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+19684,9547,negative,1,negative,negative,1,negative,Over Heating Issue while light usage,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9129,4424,negative,1,negative,negative,1,negative,Waste of money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+17137,8290,negative,1,negative,negative,1,negative,Battery is draining fast .,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+15991,7721,positive,1,positive,positive,1,positive,otherwise all the other feature are good.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+408,203,negative,1,negative,negative,1,negative,Phone has some serious OS issues,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+8731,4228,positive,1,positive,positive,1,positive,All are nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3579,1741,positive,1,positive,positive,1,positive,Good versatile phone with great value for every rupee paid.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+341,168,positive,1,positive,positive,1,positive,Nice phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14946,7197,positive,1,positive,positive,1,positive,Good one,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10315,4988,negative,1,negative,negative,1,negative,heavy heat generating when playing games,1,PHONE,1,PHONE,BATTERY,0,PERFORMANCE
+14923,7186,negative,1,negative,negative,1,negative,I am totally disappointed after purchase this product,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3700,1802,negative,1,negative,negative,1,negative,Phone Heats,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+14378,6931,negative,1,negative,negative,1,negative,Average phone... Better option available in market,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,COMPETITOR COMPARISON,1,COMPETITOR COMPARISON
+16583,8012,positive,1,positive,positive,1,positive,Battery looks okay...,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2614,1269,negative,1,negative,negative,1,negative,battery drain very fast,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4445,2166,negative,1,negative,negative,1,negative,I will never buy any product of Lenovo again.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,LOYALTY & REPEAT PURCHASE,1,LOYALTY & REPEAT PURCHASE
+14781,7125,positive,1,positive,positive,1,positive,Super pH so frnd must buy it,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+12965,6250,negative,1,negative,negative,1,negative,Call History doesn't updates.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+3002,1473,positive,1,positive,positive,1,positive,Very good product,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17039,8246,negative,1,negative,negative,1,negative,expect battery life.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+12058,5829,positive,1,positive,positive,1,positive,Really killer experience,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8035,3883,negative,1,negative,negative,1,negative,Extremely dis-satisfied after the Oreo update.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+19892,9663,negative,1,negative,negative,1,negative,heating problem.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+7789,3776,negative,1,negative,negative,1,negative,After updating to Android oreo this phone really sucks.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+5042,2449,negative,1,negative,negative,1,negative,Bad battery backup,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4450,2170,positive,1,positive,positive,1,positive,Awesome phone.. semma fast,0,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+20193,9804,negative,1,negative,negative,1,negative,bad charger,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18359,8900,negative,1,negative,negative,1,negative,So many scraches with in a week.,1,PHONE,1,PHONE,DISPLAY,0,DESIGN
+11015,5318,positive,1,positive,positive,1,positive,Good Phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10714,5167,negative,1,negative,negative,1,negative,To much heating prblm,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1509,741,negative,1,negative,negative,1,negative,slow motion video is pathetic,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+13089,6314,positive,1,positive,positive,1,positive,Good phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19912,9675,positive,1,positive,positive,1,positive,Nice product.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+7125,3455,negative,1,negative,negative,1,negative,Too much Heating problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2885,1411,negative,1,negative,negative,1,negative,takes lots of time to start,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+8642,4183,positive,1,positive,positive,1,positive,Good phone and smuth,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+13220,6375,positive,1,positive,positive,1,positive,Good sound quality.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+9215,4466,negative,1,negative,negative,1,negative,Heating problem.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+16318,7872,positive,1,positive,positive,1,positive,Camera is good!,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+11716,5662,negative,0,positive,positive,1,positive,No hang.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+11881,5741,negative,1,negative,negative,1,negative,Heavy.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+606,306,negative,1,negative,negative,1,negative,When i bought the product it was scratched.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+1642,812,positive,1,positive,positive,1,positive,Good mobile.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15171,7311,negative,1,negative,negative,1,negative,Main problem call recorder iz not working in this,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+19461,9435,negative,1,negative,negative,1,negative,No star . Ist time m disappointed from Amazon service,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+3588,1748,negative,1,negative,negative,1,negative,the battery drains very quickly,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+12733,6129,positive,1,positive,negative,1,negative,Media tech which is not good for high graphic game it started lagging and heats up,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+8482,4101,negative,1,negative,negative,1,negative,Phone heats up rapidly,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2267,1103,negative,1,negative,negative,1,negative,k8 note has only 1 speaker at bottom,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+8192,3961,negative,1,negative,positive,1,positive,Battery backup is also very good.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+20172,9795,negative,1,negative,negative,1,negative,rotation wallpaper feature not working,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+6913,3343,negative,1,negative,negative,1,negative,Don't buy this,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19443,9426,negative,1,negative,negative,1,negative,Redmi Note 4 is also better choice.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,COMPETITOR COMPARISON,1,COMPETITOR COMPARISON
+14539,7003,negative,1,negative,negative,1,negative,it takes time to boot up,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+14337,6918,negative,1,negative,negative,1,negative,Dafault CALL RECORDING FACILITY NOT PROVIDED .,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+18042,8728,positive,1,positive,positive,1,positive,screen quality is really good.,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+6620,3208,negative,1,negative,negative,1,negative,camera faltu h,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+13387,6460,negative,0,positive,positive,1,positive,mobile is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+4847,2355,negative,1,negative,negative,1,negative,Worst phone i have seen ever.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17735,8571,negative,1,negative,negative,1,negative,Video voice connection,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+9325,4525,negative,1,negative,negative,1,negative,Wow amazing exchange offer.. chutiya banane ki...,1,INFRASTRUCTURE,1,INFRASTRUCTURE,RETURNS & EXCHANGES,1,RETURNS & EXCHANGES
+4344,2114,positive,1,positive,positive,1,positive,Great I m using it for 1 month I don't see any problems in it,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10532,5094,negative,1,negative,negative,1,negative,2nd camera is dummy,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+17011,8231,negative,0,positive,positive,1,positive,"Phone is good ,camera quality is also good",1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4017,1950,negative,1,negative,negative,1,negative,Sometime it lag in game like MFF .,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+16365,7900,negative,1,negative,negative,1,negative,Facing software problem and hanging,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+16703,8072,negative,1,negative,negative,1,negative,Turbo charge doesn't work,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+10818,5228,positive,1,positive,positive,1,positive,Good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17476,8455,negative,1,negative,negative,1,negative,bs kmi battry me hai ekdm bekar chalti hai,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6446,3117,positive,1,positive,positive,1,positive,processing is good,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+3106,1519,positive,1,positive,positive,1,positive,Good phone nothing bad about it,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10620,5127,negative,1,negative,negative,1,negative,cemra is not good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+18172,8798,negative,1,negative,negative,1,negative,Phone hangs up frequently,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+6888,3331,negative,1,negative,negative,1,negative,Poor,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6920,3347,positive,1,positive,positive,1,positive,Over all good camera quality good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4871,2367,positive,1,positive,positive,1,positive,Awesome phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15018,7239,negative,1,negative,negative,1,negative,The only drawback is the battery it dies fast,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+7752,3759,negative,1,negative,positive,1,positive,Finger print is working fine.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+2978,1458,positive,1,positive,positive,1,positive,killer 360° sound by dolby Atmos,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+15030,7246,negative,1,negative,negative,1,negative,the battery drains down very quickly.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9186,4454,positive,1,positive,positive,1,positive,battery stay for full day,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+17281,8358,negative,1,negative,positive,1,positive,disign aur shape achchha hai.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+7473,3631,negative,1,negative,negative,1,negative,No system Gallery in phone.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+15714,7584,negative,1,negative,negative,1,negative,Don't buy this phone its worst phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8871,4290,negative,1,negative,negative,1,negative,Poor camera quality,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+5048,2451,negative,1,negative,positive,1,positive,Camera ok.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+16290,7859,positive,1,positive,positive,1,positive,overall good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+7782,3771,negative,1,negative,negative,1,negative,mobile hang problem,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+8271,3992,negative,1,negative,positive,1,positive,feature and working good.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+18337,8887,negative,1,negative,negative,1,negative,problem in bluetooth,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+6844,3314,negative,1,negative,positive,1,positive,Performance - 4/5 Touch and apps are very fast,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+1166,579,negative,1,negative,negative,1,negative,Not too good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+18941,9191,negative,1,negative,negative,1,negative,Sometimes internet is not available.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+16422,7923,positive,1,positive,positive,1,positive,Love the stock Android experience.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+2621,1271,negative,1,negative,negative,1,negative,call quality has also dropped significantly.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+1458,714,negative,1,negative,negative,1,negative,The bill I got was so blurred that service centre people refuse to accept it.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+19312,9370,negative,1,negative,negative,1,negative,getting missed call alerts,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+11710,5661,negative,1,negative,negative,1,negative,Turbo Charging Problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+14243,6875,negative,1,negative,negative,1,negative,"Battery is a big issue, although is has 4000 mh,but drain out by evening.",1,PHONE,1,PHONE,BATTERY,1,BATTERY
+3777,1839,positive,1,positive,positive,1,positive,Rear camera is good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+13185,6359,negative,1,negative,negative,1,negative,phone don't have the toggle button back-lit.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+13099,6319,negative,1,negative,negative,1,negative,there is no screenshot option and no night mode,0,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+15542,7500,negative,1,negative,negative,1,negative,heating problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18000,8707,positive,1,positive,positive,1,positive,"decacore processor,long lasting battery and 64 kB internal memory with 4gb ram is just awesome.",1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+20588,9989,positive,1,positive,positive,1,positive,very good specifications.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+1290,639,positive,1,positive,positive,1,positive,Great phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13589,6556,negative,1,negative,negative,1,negative,product delivery was very late by courier,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+16287,7857,negative,1,negative,negative,1,negative,Worst,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8888,4300,negative,1,negative,negative,1,negative,Signal Quality is poor,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+20183,9801,positive,1,positive,positive,1,positive,Works good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19033,9240,negative,1,negative,negative,1,negative,Automatically hang up and shut down,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+19529,9472,negative,1,negative,negative,1,negative,Battery is draining very fast... mobile is not running more than 8-10 hours.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+10484,5073,positive,1,positive,positive,1,positive,you can surely go for it over other phones of this category.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,COMPETITOR COMPARISON,1,COMPETITOR COMPARISON
+14130,6818,positive,1,positive,positive,1,positive,a fantastic value for money !,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+10952,5285,positive,1,positive,positive,1,positive,Phone is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3012,1476,negative,1,negative,negative,1,negative,Hanging ⚠️ Problem,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+13827,6682,negative,1,negative,negative,1,negative,My k4 note delivered better sound than new k8.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+2676,1304,negative,1,negative,positive,1,positive,All features are good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8712,4218,positive,1,positive,positive,1,positive,Not much heating problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+11701,5656,negative,1,negative,negative,1,negative,sound comes only from the right side.No sound in the left side speakers.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+12776,6151,negative,1,negative,negative,1,negative,"Very bulky, looks very bad, worst camera.",0,PHONE,1,PHONE,DESIGN,1,DESIGN
+3315,1608,positive,1,positive,positive,1,positive,Lenovo k8 note is very good phone and smart,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16852,8143,positive,1,positive,positive,1,positive,Good product at affordable rate..,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+16350,7888,positive,1,positive,positive,1,positive,Superb,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+1006,509,positive,1,positive,positive,1,positive,good one,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2150,1055,negative,1,negative,negative,1,negative,Bad phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19226,9322,positive,1,positive,negative,1,negative,Little bit hitting issue.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6137,2974,negative,1,negative,negative,1,negative,not sure about depth,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+14128,6817,negative,1,negative,negative,1,negative,headphone not support.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+4447,2168,negative,1,negative,negative,1,negative,"Heating problem, battery drains very fast battery backup not good.",0,PHONE,1,PHONE,BATTERY,1,BATTERY
+8511,4116,negative,1,negative,negative,1,negative,Battery drain fast.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+13042,6293,negative,1,negative,positive,1,positive,"a good multimedia device. which have good performance, display",0,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+503,252,positive,1,positive,positive,1,positive,Satisfied with the product,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15962,7708,positive,1,positive,negative,1,negative,charging is not very fast.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18644,9049,negative,1,negative,negative,1,negative,Signal issue when I use sim card which works fine in all other phones.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+18184,8807,negative,1,negative,negative,1,negative,less volume in head phones,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+8020,3874,negative,1,negative,negative,1,negative,fully charged take time 4 -5 hours,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6823,3309,positive,1,positive,negative,1,negative,heat mobile in ur pocket,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4104,1993,negative,1,negative,negative,1,negative,Don't go with lenovo k8 note.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3233,1572,positive,1,positive,positive,1,positive,performance of the phone work very smooth,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+17684,8547,negative,1,negative,positive,1,positive,Not Bad,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+696,347,positive,1,positive,positive,1,positive,Value for Money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+15363,7414,negative,0,positive,positive,1,positive,Otherwise it is a killer phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19237,9330,negative,1,negative,negative,1,negative,Heating too much,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6779,3288,positive,1,positive,positive,1,positive,you can open a lot of common apps without a lag.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+7327,3559,positive,1,positive,positive,1,positive,Camera is excellent.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+8689,4202,negative,1,negative,negative,1,negative,It is having the network issue.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+5959,2896,positive,1,positive,positive,1,positive,Osm camera,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+474,237,negative,1,negative,negative,1,negative,it's screen is not actually gorilla glass.,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+14650,7048,negative,1,negative,negative,1,negative,don't buy this phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13474,6504,negative,1,negative,negative,1,negative,Poor camera,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+5946,2890,positive,1,positive,positive,1,positive,"No issues in heating, multi tasking, split screens and everything is just awesome.",0,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+18101,8761,negative,1,negative,negative,1,negative,battry backup is bad,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+3184,1553,negative,1,negative,negative,1,negative,"mobiles should have any defect like heating, Bluetooth problems.",0,PHONE,1,PHONE,BATTERY,1,BATTERY
+17110,8278,negative,1,negative,negative,1,negative,"no cast screen,no Bluetooth accessories, no call recorder",0,PHONE,1,PHONE,SOFTWARE,0,CONNECTIVITY
+15870,7666,negative,1,negative,negative,1,negative,you can not connect more that two devices through hotspot.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+19916,9677,positive,1,positive,positive,1,positive,For only gamer..,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+15978,7713,negative,1,negative,negative,1,negative,battery backup is not so good..,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+20095,9761,negative,1,negative,negative,1,negative,dolby atmos not good at all,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+20467,9930,positive,1,positive,positive,1,positive,excellent processor,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+12878,6202,positive,1,positive,positive,1,positive,It's good ok,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+8342,4034,negative,1,negative,negative,1,negative,No casting,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+10128,4901,positive,1,positive,positive,1,positive,Sound quality is good..Dolby effects.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+7671,3720,negative,1,negative,negative,1,negative,battery also drains quickly,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19978,9713,negative,1,negative,negative,1,negative,Heating problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+20459,9928,positive,1,positive,positive,1,positive,Overall it's a good phone..,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6237,3021,positive,1,positive,positive,1,positive,Nice looks,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+8124,3929,negative,1,negative,negative,1,negative,except the battery back up and the heat resistency,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+16404,7915,positive,1,positive,positive,1,positive,Nice Device,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+5635,2721,positive,1,positive,positive,1,positive,"Amazing speed, amazing camera, amazing Dolby sound.",1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+15895,7680,positive,1,positive,positive,1,positive,Febulus,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+4830,2347,positive,1,positive,negative,1,negative,Phone is heating shortly.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5258,2554,negative,1,negative,negative,1,negative,battery drains fast with in 5-6 hours on normal use.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2189,1070,negative,1,negative,negative,1,negative,Left speaker is not working.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+2177,1066,negative,1,negative,positive,1,positive,front camera good and rear camera good.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4935,2397,positive,1,positive,positive,1,positive,Superb Phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19225,9322,positive,1,positive,positive,1,positive,Awesome mobile in this price.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+3843,1875,positive,1,positive,positive,1,positive,Processing speed good,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+14253,6880,negative,1,negative,negative,1,negative,overall an average product.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17047,8250,negative,1,negative,negative,1,negative,"phone worked fine till 19th October, could not be turned on after charging. Dead.",1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4407,2149,positive,1,positive,positive,1,positive,Excellent mobile with multi features.,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+1901,931,negative,1,negative,negative,1,negative,stock android is having lot of issues,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+4819,2343,positive,1,positive,positive,1,positive,satisfied with battery life.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+351,173,positive,1,positive,negative,1,negative,accessories are bad quality.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+17236,8336,negative,1,negative,negative,1,negative,broken the screen,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+16074,7762,negative,1,negative,negative,1,negative,there is not any performance as deca processer,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+8753,4235,negative,1,negative,negative,1,negative,really big phone not good to handle with 1 hand,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+563,282,negative,1,negative,negative,1,negative,My phone gets heated Everytime and the battery goes down very quickly.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5026,2440,positive,1,positive,positive,1,positive,front Camera is Good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4025,1954,positive,1,positive,negative,1,negative,sound quality is medium not that much best,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+10512,5086,negative,1,negative,negative,1,negative,dolby atmos is not working properly.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+3356,1624,positive,1,positive,positive,1,positive,Camera quality is also good.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+15531,7495,positive,1,positive,positive,1,positive,Happy......,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17876,8641,positive,1,positive,positive,1,positive,It's nice,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16396,7913,negative,1,negative,negative,1,negative,lost basic feature like call recording,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+9981,4831,positive,1,positive,positive,1,positive,Worth for money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+18803,9123,positive,1,positive,positive,1,positive,no lag in performance,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+6220,3011,negative,1,negative,negative,1,negative,display quality is very poor...Pixels are broken in every single picture..,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+11686,5647,negative,1,negative,negative,1,negative,There are better options out there in this price range.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,COMPETITOR COMPARISON,1,COMPETITOR COMPARISON
+20367,9887,negative,1,negative,negative,1,negative,waste of money at this price.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+980,498,positive,1,positive,negative,1,negative,dual cam portrait mode not that good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4111,1995,negative,1,negative,positive,1,positive,Battery life is good.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5309,2580,negative,1,negative,negative,1,negative,my phone shut down automatically,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+3767,1834,negative,1,negative,positive,1,positive,PHONE OUTLOOK IS GOOD,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+8203,3967,positive,1,positive,positive,1,positive,Very fast finger -print sensor performance.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+6258,3032,negative,1,negative,negative,1,negative,I am disappointed by Lenovo k8 note..,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2874,1404,positive,1,positive,positive,1,positive,Nice performance,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+4285,2079,negative,1,negative,negative,1,negative,Battery back up is very bad,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+120,61,negative,1,negative,negative,1,negative,screen cast can't work with TV miracast,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+5770,2794,positive,1,positive,positive,1,positive,Nice phone by Lenovo,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+12692,6107,positive,1,positive,positive,1,positive,Awesome device on this price.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+14255,6881,negative,1,negative,negative,1,negative,Many functions not working like screen casting cannot detect my smart TV,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+20294,9853,positive,1,positive,negative,1,negative,No headsets,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+2797,1361,negative,1,negative,negative,1,negative,Images taken are sometimes elongated or out of shape.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+16238,7832,negative,1,negative,negative,1,negative,gets heat up,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9802,4748,positive,1,positive,positive,1,positive,over all product is supebbbb,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+1747,861,positive,1,positive,positive,1,positive,Good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6091,2960,negative,1,negative,negative,1,negative,turbo charging is not working,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+11884,5743,negative,1,negative,negative,1,negative,Average camera ... Seriously need to be improved,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+6241,3025,positive,1,positive,positive,1,positive,Good handset,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2408,1177,negative,1,negative,negative,1,negative,heating problems also there,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+3207,1562,negative,1,negative,negative,1,negative,Battery drains fast when mobile not in use also.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+20497,9944,negative,1,negative,negative,1,negative,worst,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14614,7034,negative,1,negative,negative,1,negative,All apps are close automatically without touching back button,0,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+17461,8449,negative,1,negative,negative,1,negative,Lenovo executives don't respond to the queries/issues,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+17492,8460,negative,1,negative,negative,1,negative,discharge so fast,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+17767,8588,negative,1,negative,negative,1,negative,Turbo charger charge the phone in 6 hour full100%.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5201,2525,positive,1,positive,positive,1,positive,New process is very well,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+19607,9509,negative,0,positive,positive,1,positive,my jio works perfect for me,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+15157,7306,negative,1,negative,negative,1,negative,it takes more than 2.15 hrs to charge,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9084,4401,negative,1,negative,negative,1,negative,touch issues,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+6275,3039,negative,1,negative,negative,1,negative,Thik thak,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+2753,1343,positive,1,positive,positive,1,positive,its damn good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11581,5598,negative,1,negative,negative,1,negative,no any option.like slow motion vedio.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+15293,7377,negative,1,negative,negative,1,negative,late dilevery in my address,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+1713,846,negative,1,negative,negative,1,negative,camera picture quality is worse,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+10946,5283,negative,1,negative,negative,1,negative,There is a network problem - it does not show any signal most of the time.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+2929,1433,negative,1,negative,negative,1,negative,this is not an upgrade of K4 note.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,COMPETITOR COMPARISON,1,COMPETITOR COMPARISON
+8774,4247,negative,1,negative,negative,1,negative,not satisfied with battery and screen cast,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9989,4836,negative,1,negative,negative,1,negative,Very very weak phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+20397,9899,negative,1,negative,negative,1,negative,Heat up very fast,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+208,98,negative,1,negative,negative,1,negative,There is heating and battery backup problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4641,2266,negative,1,negative,negative,1,negative,mobile heats up while running applications,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+10575,5109,positive,1,positive,positive,1,positive,overall is ok & good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10981,5299,negative,1,negative,negative,1,negative,draining fast.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19722,9565,positive,1,positive,positive,1,positive,Good one,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+4073,1976,positive,1,positive,positive,1,positive,Very good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16928,8186,negative,1,negative,negative,1,negative,sabse ghatiya service and sabse ghatiya phone,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+7682,3728,positive,1,positive,positive,1,positive,camera good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+6847,3315,negative,1,negative,negative,1,negative,lenovo promised to give regular updates to it...but they dint do as oromised,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+5302,2576,negative,1,negative,negative,1,negative,touch also not responding.,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+20568,9979,negative,1,negative,negative,1,negative,Didn't like the buttons order.,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+18003,8708,positive,1,positive,positive,1,positive,Osm mobile...,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+16234,7829,positive,1,positive,positive,1,positive,zabardastt phone (fantastic phone),1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15143,7298,negative,0,positive,positive,1,positive,Phone is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6503,3146,positive,1,positive,positive,1,positive,Superb.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+20266,9842,positive,1,positive,positive,1,positive,Super phone.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+11187,5401,positive,1,positive,positive,1,positive,Excellent n slim phone,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+6647,3222,positive,1,positive,positive,1,positive,Gud phone with great features,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17566,8494,positive,1,positive,positive,1,positive,super,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+4048,1966,positive,1,positive,positive,1,positive,spcl thankxx for battery.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+15234,7341,negative,1,negative,negative,1,negative,VERY SLOW OPERATION,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+13896,6716,negative,1,negative,negative,1,negative,Amazon return policy is very bad for mobile device.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,POLICY CLARITY & TRUSTWORTHINESS,1,POLICY CLARITY & TRUSTWORTHINESS
+18481,8961,positive,1,positive,positive,1,positive,Delivery was on time..,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+2174,1065,positive,1,positive,positive,1,positive,Very Comely phone...Great!!!,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19418,9415,negative,1,negative,negative,1,negative,But now all other phones better it.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,COMPETITOR COMPARISON,1,COMPETITOR COMPARISON
+13508,6516,negative,1,negative,negative,1,negative,Camera is not good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+8576,4148,positive,1,positive,negative,1,negative,front camera is not bad or not good also,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+20247,9831,negative,1,negative,negative,1,negative,It took 2 1/2 hours to charge for the first time.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5474,2648,negative,0,positive,positive,1,positive,mobile is good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6024,2928,positive,1,positive,positive,1,positive,Great battery life...,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+11540,5576,negative,1,negative,negative,1,negative,Headphone not available this set.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+4671,2284,positive,1,positive,positive,1,positive,working good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+18515,8980,negative,1,negative,negative,1,negative,It's not getting charge properly so I want 2 exchange it,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18536,8991,negative,1,negative,negative,1,negative,"The review only mentions the product name, implying a problem without detail.",0,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13881,6707,negative,1,negative,negative,1,negative,Very poor material,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+11551,5581,negative,1,negative,negative,1,negative,battery soon empty,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+15764,7614,positive,1,positive,positive,1,positive,good camera amazing processor,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+15799,7629,negative,1,negative,negative,1,negative,Casting didn't work.,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+14770,7116,positive,1,positive,positive,1,positive,Excellent Phone I ever seen.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10498,5082,negative,1,negative,negative,1,negative,Its not upto the expectations.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+12220,5896,negative,1,negative,positive,1,positive,snappy app performance,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+4072,1975,negative,1,negative,negative,1,negative,bad phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+4767,2321,positive,1,positive,positive,1,positive,camera is great.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+5468,2646,negative,1,negative,positive,1,positive,"Mobile configuration, camera is good.",1,PHONE,1,PHONE,CAMERA,1,CAMERA
+11547,5579,negative,1,negative,negative,1,negative,camera quality also bad,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+16780,8107,positive,1,positive,positive,1,positive,mob battery backup is good.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+9243,4485,negative,1,negative,negative,1,negative,Camera not as expected.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+2538,1235,negative,1,negative,positive,1,positive,only speakers are good.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+12735,6130,negative,1,negative,negative,1,negative,while calling the voice is always broken .,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+9680,4692,positive,1,positive,positive,1,positive,Excellent,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14448,6969,positive,1,positive,positive,1,positive,Very good mobile worth buying it!,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+20126,9776,positive,1,positive,positive,1,positive,great mobile all features are great,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3806,1853,positive,1,positive,positive,1,positive,Good,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13991,6760,negative,1,negative,negative,1,negative,I could not refund it to Amazon because of it's smart check system.,1,INFRASTRUCTURE,1,INFRASTRUCTURE,RETURNS & EXCHANGES,1,RETURNS & EXCHANGES
+11967,5790,negative,1,negative,negative,1,negative,screen cast is not work with any smart TV,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+8241,3977,negative,1,negative,negative,1,negative,screen started showing yellow patches,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+17724,8565,negative,1,negative,negative,1,negative,Very bad my experience,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+720,360,negative,1,negative,negative,1,negative,Low sound via earphones!,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+2583,1252,positive,1,positive,positive,1,positive,AFTER 8.0 UPDATES BATTERY BACKUP IS GOOD.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+14163,6834,negative,1,negative,negative,1,negative,battery don't last long,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+7306,3550,negative,1,negative,negative,1,negative,very poor processor,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+16922,8183,negative,1,negative,negative,1,negative,Not VoLTE,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+19961,9703,positive,1,positive,negative,1,negative,Screen is little bit low,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+11162,5392,negative,1,negative,negative,1,negative,updated with normal application not supplied,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+14965,7208,positive,1,positive,positive,1,positive,Awesome Mobile,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15245,7348,negative,1,negative,negative,1,negative,the volume of speakers isnt good.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+323,157,positive,1,positive,positive,1,positive,the selfie here is literally good as compare to other phones in this price range,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+5022,2439,negative,1,negative,negative,1,negative,Don't go for lenovo,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,BRAND TRUST & REPUTATION,1,BRAND TRUST & REPUTATION
+3221,1567,negative,1,negative,negative,1,negative,Worst product from Lenovo.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,BRAND TRUST & REPUTATION,1,BRAND TRUST & REPUTATION
+19874,9653,negative,1,negative,negative,1,negative,Batter _4000But not worthy.not last for one day,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+16270,7848,positive,1,positive,positive,1,positive,Very much satisfied,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+20005,9725,negative,1,negative,negative,1,negative,Apps crash everytime.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+17571,8497,negative,1,negative,negative,1,negative,Not a Value for Money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+18189,8807,negative,1,negative,negative,1,negative,camera at this price range is waste,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+9052,4384,negative,1,negative,negative,1,negative,Mobile turbo charge not working.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+6388,3095,positive,1,positive,positive,1,positive,Camera ok,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+10877,5256,positive,1,positive,positive,1,positive,speaker volume is loud n clear thanks to dolby atmos.,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+13730,6627,negative,1,negative,negative,1,negative,Features that provided are not working well.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+5995,2914,negative,1,negative,negative,1,negative,Camera not good,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+19053,9251,negative,1,negative,negative,1,negative,100 charging only using with inter net 4 hour's coming,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+2450,1198,negative,1,negative,negative,1,negative,Not to reach expectations,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+13941,6739,negative,1,negative,negative,1,negative,battery survice not long,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+17810,8607,positive,1,positive,positive,1,positive,Very nice products Lenovo k8 note,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+3405,1646,negative,1,negative,negative,1,negative,Overall the phone is not good.....,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+10493,5078,negative,1,negative,negative,1,negative,Phone has touch issues also.,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+12369,5955,negative,1,negative,negative,1,negative,liberates enough heat to keep your hand extra warm,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+5573,2694,positive,1,positive,positive,1,positive,camera ok,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+12867,6197,positive,1,positive,negative,1,negative,Product packing was ok and not great,1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+3633,1768,negative,1,negative,negative,1,negative,heating problems,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+13305,6413,negative,1,negative,negative,1,negative,Battery percentage is missing,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+738,368,negative,1,negative,negative,1,negative,only one speaker is working,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+10259,4962,positive,1,positive,positive,1,positive,Camera indoor 4star outdoors 5 stars,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+18855,9146,negative,1,negative,negative,1,negative,average performance,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+2420,1186,positive,1,positive,positive,1,positive,Best,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+15096,7280,negative,1,negative,negative,1,negative,My charger got burnt while charging within less than a month.,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+8352,4043,negative,1,negative,negative,1,negative,battery is a total disaster...drains by Evening 5 after a full night charging,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+3366,1629,negative,1,negative,negative,1,negative,Bluetooth is not working properly,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+5537,2678,negative,1,negative,negative,1,negative,Terrible phone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+5140,2492,positive,1,positive,positive,1,positive,Perfect phone for daily usage,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+17127,8286,positive,1,positive,negative,1,negative,not have privacy features..And themes..Etc..,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+6962,3368,negative,1,negative,negative,1,negative,Some time heat automatically.....,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+1087,546,positive,1,positive,positive,1,positive,Awesome phone and service,1,INFRASTRUCTURE,1,INFRASTRUCTURE,CUSTOMER SUPPORT,1,CUSTOMER SUPPORT
+11482,5548,positive,1,positive,positive,1,positive,Value for money,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,PRICE & VALUE,1,PRICE & VALUE
+1868,918,negative,1,negative,negative,1,negative,Heats up in short time,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18057,8737,negative,1,negative,negative,1,negative,"BIG BATTERY ISSUE, as bettery last long for 15 hours max without any heavy usage.",1,PHONE,1,PHONE,BATTERY,1,BATTERY
+12242,5907,negative,1,negative,negative,1,negative,if you seen less resolution quality video then that video is blur,1,PHONE,1,PHONE,DISPLAY,1,DISPLAY
+8369,4049,negative,1,negative,negative,1,negative,has heating issue at the top on back side,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+18443,8944,negative,1,negative,negative,1,negative,horrible battery backup dies in a half day,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+34,19,positive,1,positive,positive,1,positive,Good smartphone,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+14240,6874,negative,1,negative,negative,1,negative,processor not good it little hang not good.,1,PHONE,1,PHONE,PERFORMANCE,1,PERFORMANCE
+2682,1307,positive,1,positive,positive,1,positive,Awesome Phn.!,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+6143,2977,negative,1,negative,negative,1,negative,heating issues are main problem,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+4774,2322,positive,1,positive,positive,1,positive,the best part is the back duak camera,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4179,2018,negative,1,negative,negative,1,negative,Speakers quality is not good,1,PHONE,1,PHONE,AUDIO,1,AUDIO
+5853,2839,negative,1,negative,negative,1,negative,It is equivalent to 5MP.,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+4583,2236,negative,1,negative,negative,1,negative,Camera is below average,1,PHONE,1,PHONE,CAMERA,1,CAMERA
+19204,9311,negative,1,negative,negative,1,negative,"Takes 21, days to reach kerala ha ha...",1,INFRASTRUCTURE,1,INFRASTRUCTURE,DELIVERY,1,DELIVERY
+9852,4769,positive,1,positive,positive,1,positive,Lenovo K 8 note is looking so good,1,PHONE,1,PHONE,DESIGN,1,DESIGN
+20564,9977,positive,1,positive,positive,1,positive,Not bad,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+19749,9578,negative,1,negative,negative,1,negative,cast to TV not working,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+18770,9112,negative,1,negative,negative,1,negative,timing problem the clock is not showing the proper timing,1,PHONE,1,PHONE,SOFTWARE,1,SOFTWARE
+1493,734,negative,1,negative,negative,1,negative,fast discharging,1,PHONE,1,PHONE,BATTERY,1,BATTERY
+19795,9599,negative,1,negative,negative,1,negative,Not supported LTE & VOLTE,1,PHONE,1,PHONE,CONNECTIVITY,1,CONNECTIVITY
+8174,3951,positive,1,positive,positive,1,positive,Excellent.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
+18208,8814,positive,1,positive,positive,1,positive,Really I liked it so much.,1,GENERAL_FEEDBACK,1,GENERAL_FEEDBACK,OVERALL SATISFACTION,1,OVERALL SATISFACTION
